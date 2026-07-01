@@ -1,0 +1,478 @@
+canonical_identifier: bkk:krp/KR6r0172/X/v1
+canonical_location: https://kanripo.org/bkk/KR6r0172/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛祖心燈
+  identifiers:
+    krp: KR6r0172
+    cbeta: X88n1666
+    cbeta_old_id: X88n1666
+    authorityid: CA0001104
+    json_key: X1666
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X88/X88n1666.xml
+    old_id: X88n1666
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6r0172_000-X.yaml, hash: 'sha256:d17695e97d79a9525f76114a6a5b57828818508c2e4c1051576e2b1012efeb19'}
+  - {seq: 1, filename: KR6r0172_001-X.yaml, hash: 'sha256:6eca908eb462d80d5099607a4900a9561b73a6b15a9510048f8300d7703554b0'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6r0172_000-X.markers.yaml, hash: 'sha256:c481aa9c057f21b0e4ddadfe6999341db4fef06619f4d2fd0196bc3a3b9e6142'}
+  - {seq: 1, role: markers, filename: assets/KR6r0172_001-X.markers.yaml, hash: 'sha256:4096d28948705bbbb0d907ad5617fbd7074945513ec8f0e25a065625510463d0'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6r0172_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 1408
+  label: 佛祖心燈
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0172_X_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 七佛偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0172_X_001-mulu-2
+    span:
+    - body
+    - 3
+    - 3
+  label: 毗婆尸佛(過去莊嚴劫第九百九十八尊)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0172_X_001-mulu-3
+    span:
+    - body
+    - 47
+    - 47
+  label: 尸棄佛(莊嚴劫第九百九十九尊)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0172_X_001-mulu-4
+    span:
+    - body
+    - 88
+    - 88
+  label: 毗舍浮佛(過去莊嚴劫第一千尊)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0172_X_001-mulu-5
+    span:
+    - body
+    - 129
+    - 129
+  label: 拘留孫佛(現在賢劫第一尊)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0172_X_001-mulu-6
+    span:
+    - body
+    - 168
+    - 168
+  label: 拘那含牟尼佛(賢劫第二尊)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0172_X_001-mulu-7
+    span:
+    - body
+    - 207
+    - 207
+  label: 迦葉佛(賢劫第三尊)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0172_X_001-mulu-8
+    span:
+    - body
+    - 243
+    - 243
+  label: 釋迦牟尼佛(賢劫第四尊)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0172_X_001-mulu-9
+    span:
+    - body
+    - 273
+    - 273
+  label: 三十三祖傳法偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0172_X_001-mulu-10
+    span:
+    - body
+    - 280
+    - 280
+  label: 摩訶迦葉(天竺第一祖)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0172_X_001-mulu-11
+    span:
+    - body
+    - 309
+    - 309
+  label: 阿難(天竺第二祖)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0172_X_001-mulu-12
+    span:
+    - body
+    - 336
+    - 336
+  label: 商那和修(天竺第三祖)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0172_X_001-mulu-13
+    span:
+    - body
+    - 365
+    - 365
+  label: 優婆毱多(天竺第四祖)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0172_X_001-mulu-14
+    span:
+    - body
+    - 394
+    - 394
+  label: 提多迦(天竺第五祖)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0172_X_001-mulu-15
+    span:
+    - body
+    - 422
+    - 422
+  label: 彌遮迦(天竺第六祖)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0172_X_001-mulu-16
+    span:
+    - body
+    - 450
+    - 450
+  label: 婆須蜜(天竺第七祖)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0172_X_001-mulu-17
+    span:
+    - body
+    - 478
+    - 478
+  label: 佛陀難提(天竺第八祖)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0172_X_001-mulu-18
+    span:
+    - body
+    - 507
+    - 507
+  label: 伏䭾蜜多(天竺第九祖)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0172_X_001-mulu-19
+    span:
+    - body
+    - 536
+    - 536
+  label: 脇尊者(天竺第十祖)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0172_X_001-mulu-20
+    span:
+    - body
+    - 564
+    - 564
+  label: 富那夜奢(第十一祖)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0172_X_001-mulu-21
+    span:
+    - body
+    - 592
+    - 592
+  label: 馬鳴大士(第十二祖)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0172_X_001-mulu-22
+    span:
+    - body
+    - 620
+    - 620
+  label: 迦毗摩羅(第十三祖)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0172_X_001-mulu-23
+    span:
+    - body
+    - 648
+    - 648
+  label: 龍樹尊者(第十四祖)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0172_X_001-mulu-24
+    span:
+    - body
+    - 676
+    - 676
+  label: 迦那提婆(第十五祖)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0172_X_001-mulu-25
+    span:
+    - body
+    - 704
+    - 704
+  label: 羅睺羅多(第十六祖)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0172_X_001-mulu-26
+    span:
+    - body
+    - 732
+    - 732
+  label: 僧迦難提(第十七祖)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0172_X_001-mulu-27
+    span:
+    - body
+    - 760
+    - 760
+  label: 伽耶舍多(第十八祖)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0172_X_001-mulu-28
+    span:
+    - body
+    - 788
+    - 788
+  label: 鳩摩羅多(第十九祖)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0172_X_001-mulu-29
+    span:
+    - body
+    - 816
+    - 816
+  label: 闍夜多(第二十祖)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0172_X_001-mulu-30
+    span:
+    - body
+    - 843
+    - 843
+  label: 婆修盤頭(第二十一祖)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0172_X_001-mulu-31
+    span:
+    - body
+    - 872
+    - 872
+  label: 摩拏羅(第二十二祖)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0172_X_001-mulu-32
+    span:
+    - body
+    - 900
+    - 900
+  label: 鶴勒那(第二十三祖)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0172_X_001-mulu-33
+    span:
+    - body
+    - 928
+    - 928
+  label: 師子比丘(第二十四祖)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0172_X_001-mulu-34
+    span:
+    - body
+    - 957
+    - 957
+  label: 婆舍斯多(第二十五祖)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0172_X_001-mulu-35
+    span:
+    - body
+    - 986
+    - 986
+  label: 不如密多(第二十六祖)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0172_X_001-mulu-36
+    span:
+    - body
+    - 1015
+    - 1015
+  label: 般若多羅(第二十七祖)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0172_X_001-mulu-37
+    span:
+    - body
+    - 1044
+    - 1044
+  label: 菩提達磨(西天第二十八祖中華初祖)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0172_X_001-mulu-38
+    span:
+    - body
+    - 1079
+    - 1079
+  label: 慧可大師(第二十九祖中華二祖)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0172_X_001-mulu-39
+    span:
+    - body
+    - 1112
+    - 1112
+  label: 僧璨大師(第三十祖中華三祖)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0172_X_001-mulu-40
+    span:
+    - body
+    - 1144
+    - 1144
+  label: 道信大師(第三十一祖中華四祖)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0172_X_001-mulu-41
+    span:
+    - body
+    - 1177
+    - 1177
+  label: 弘忍大師(第三十二祖中華五祖)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0172_X_001-mulu-42
+    span:
+    - body
+    - 1210
+    - 1210
+  label: 慧能大師(第三十三祖中華六祖)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0172_X_001-mulu-43
+    span:
+    - body
+    - 1243
+    - 1243
+  label: 佛祖源流訣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0172_X_001-mulu-44
+    span:
+    - body
+    - 1318
+    - 1318
+  label: 五宗次序譜
+  type: mulu
+  level: 1
+hash: sha256:adb2af8cc28704c6d78f38533d5d8111d358d2ccacb0c7d645cb6f91c59dbe19

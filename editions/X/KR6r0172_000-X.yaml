@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6r0172/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛祖心燈
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X88/X88n1666.xml
+    old_id: X88n1666
+hash: sha256:d17695e97d79a9525f76114a6a5b57828818508c2e4c1051576e2b1012efeb19
