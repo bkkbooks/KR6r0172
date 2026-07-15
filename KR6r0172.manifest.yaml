@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6r0172/v1
 canonical_location: https://kanripo.org/bkk/KR6r0172/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 佛祖心燈
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6r0172_000.yaml, hash: 'sha256:d17695e97d79a9525f76114a6a5b57828818508c2e4c1051576e2b1012efeb19'}
-  - {seq: 1, filename: KR6r0172_001.yaml, hash: 'sha256:6eca908eb462d80d5099607a4900a9561b73a6b15a9510048f8300d7703554b0'}
+  - {seq: 1, filename: KR6r0172_001.yaml, hash: 'sha256:ec8158d69713cbc96078b38c279a5cf103579ced7f8c29648dac8c310059f86f'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6r0172_000.markers.yaml, hash: 'sha256:d080af3f1f44e62533ba07bd40c5cc81a3cb402ccca23a55c59510bff20517b8'}
-  - {seq: 1, role: markers, filename: assets/KR6r0172_001.markers.yaml, hash: 'sha256:9945cd219e021de3426e647a6705c5b6737204bd8d8ec98095d5c15e1ea5f430'}
+  - {seq: 1, role: markers, filename: assets/KR6r0172_001.markers.yaml, hash: 'sha256:db3107cc2d58cc610e66456d2a36bab80ac369bdadb75d2735e88d80275d28de'}
 table_of_contents:
 - ref:
     seq: 1
@@ -477,4 +477,7 @@ table_of_contents:
   label: 五宗次序譜
   type: mulu
   level: 1
-hash: sha256:1620a666e09738cb33154bdac5bba37d920f0abd518f2fb9054722d467e2d6cd
+hash: sha256:2017c34dfb658c9c003c464a8484638d18b840e296654dc309fa45558c557df3
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
